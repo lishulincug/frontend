@@ -57,7 +57,7 @@
     "jquery.flot.tooltip": "github:krzysu/flot.tooltip",
     "lodash": "4.17.4",
     "modernizr": "3.5.0",
-    "moment": "2.18.1",
+    "moment": "2.24.0",
     "ng-zorro-antd": "^0.7.1",
     "ng2-charts": "1.5.0",
     "ng2-cookies": "^1.0.12",
